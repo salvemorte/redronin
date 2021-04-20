@@ -1,5 +1,8 @@
 # redronin
 
+![redronin](https://img.shields.io/badge/redronin-0.1.0-red)
+![scripts](https://img.shields.io/badge/scripts-2-red)
+
 redronin. Offensive powershell for red team, penetration testing and offensive security.
 
 ### What is redronin
