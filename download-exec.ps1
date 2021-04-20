@@ -1,4 +1,4 @@
-function Download-Execute-PS
+function download-exec
 {
 <#
 .SYNOPSIS
