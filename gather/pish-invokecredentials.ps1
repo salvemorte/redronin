@@ -2,8 +2,7 @@ function pish-invokecredentials
 {
 <#
 .SYNOPSIS
-Script to call very basic credential prompt until valid local or domain credentials are entered in the prompt.
-
+Script to call very basic credential prompt until valid local or domain credentials are entered.
 .DESCRIPTION
 Opens a prompt which asks for user credentials and stays until valid local or domain credentials are entered in the prompt.
 
