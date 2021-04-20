@@ -30,3 +30,5 @@ Script to call very basic credential prompt until valid local or domain credenti
 
 Pull requests and issues are welcome. 
 Thanks for helping.
+
+Find the changelog here. [Changelog](https://github.com/itsAbyzou/redronin/blob/main/changelog.MD)
