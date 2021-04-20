@@ -16,7 +16,8 @@ Soon.
 
 #### List of Scripts
 
-download-exec.ps1 - redronin payload to download and afterwards execute any powershell script.
+[Download_& Execute](https://github.com/itsAbyzou/redronin/blob/main/download-exec.ps1)
+Payload to download and afterwards execute any powershell script from an external URL.
 
 #### Contribute
 
