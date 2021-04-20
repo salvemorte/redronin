@@ -16,8 +16,14 @@ Soon.
 
 #### List of Scripts
 
-[Download_& Execute](https://github.com/itsAbyzou/redronin/blob/main/download-exec.ps1)
+[Download_& Execute](https://github.com/itsAbyzou/redronin/blob/main/exec/download-exec.ps1)
+
 Payload to download and afterwards execute any powershell script from an external URL.
+
+[Download_& Execute](https://github.com/itsAbyzou/redronin/blob/main/gather/pish-invokecredentials.ps1)
+
+Script to call very basic credential prompt until valid local or domain credentials are entered.
+
 
 #### Contribute
 
