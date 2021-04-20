@@ -16,7 +16,7 @@ Soon.
 
 #### List of Scripts
 
-Soon.
+download exec - redronin payload to download and afterwards execute any powershell script.
 
 #### Contribute
 
