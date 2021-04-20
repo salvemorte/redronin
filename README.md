@@ -16,7 +16,7 @@ Soon.
 
 #### List of Scripts
 
-download exec - redronin payload to download and afterwards execute any powershell script.
+download-exec.ps1 - redronin payload to download and afterwards execute any powershell script.
 
 #### Contribute
 
