@@ -7,7 +7,7 @@ redronin. Offensive powershell for red team, penetration testing and offensive s
 
 ### What is redronin
 
-redronin is a work in progress project, assembling a collection of scripts and payloads to use the windows powershell for offensive security and pentesting. It has been created by itsAbyzou.
+redronin is a work in progress project, assembling a collection of scripts and payloads to use the windows powershell for offensive security and pentesting. It has been created by itsAbyzou and is a work in progress project. Multiple scripts deliver possibilities from allowing elevated executions towards simple pishing methods, all over powershell.
 
 #### Installation
 
